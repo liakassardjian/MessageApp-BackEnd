@@ -1,0 +1,1 @@
+{"version":3,"file":"messages.schema.js","sourceRoot":"","sources":["../../src/messages/messages.schema.ts"],"names":[],"mappings":";;;AAAA,qCAAqC;AAExB,QAAA,aAAa,GAAG,IAAI,QAAQ,CAAC,MAAM,CAAC;IAC7C,IAAI,EAAE,MAAM;IACZ,KAAK,EAAE,MAAM;IACb,OAAO,EAAE,MAAM;IACf,IAAI,EAAE,MAAM;CACb,CAAC,CAAC"}
